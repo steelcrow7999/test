@@ -1,0 +1,10 @@
+i= 14
+i2= 2
+ii=i+i2
+iii=i-i2
+iiii=i*i2
+iiiii=i//i2
+print("%d + %d=%d" %(i , i2 , ii))
+print("%d - %d= %d " %(i , i2,iii))
+print("%d * %d= %d " %(i , i2,iiii))
+print("%d / %d= %d " %(i , i2,iiiii))
